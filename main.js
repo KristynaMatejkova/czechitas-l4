@@ -21,7 +21,7 @@ document.body.innerHTML = (
 '<p> User name: ' + usersEmail.userName + ' </p>' +
 '<p> Domain: ' + usersEmail.domain + ' </p>'
 );
-//úkol 3 - zakomentovala jsem, protože přepisuje úkol 2 a až po vytvoření jsem si v classroom všimla, že jsme asi dělat neměli :D
+//úkol 3 - zakomentovala jsem, protože přepisuje úkol 2 a až po vytvoření jsem si v classroom všimla, že jsme asi dělat neměli:D
 /*
 let street = prompt("Zadejte prosím název ulice:");
 let houseNumber = prompt("Zadejte prosím číslo domu:");
